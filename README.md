@@ -1,5 +1,7 @@
 # Canadian Citizenship Application — Exhibit Shortcuts
 
+**Live site: [bergutman.github.io/canada](https://bergutman.github.io/canada)**
+
 A tiny GitHub Pages site that redirects short URLs to the actual sources for public exhibits.
 
 ## Public exhibits
